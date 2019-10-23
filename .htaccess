@@ -1,0 +1,4 @@
+Options -Indexes
+Options +FollowSymlinks -Multiviews
+DirectoryIndex index.html
+RewriteEngine On
